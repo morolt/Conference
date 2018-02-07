@@ -4,11 +4,11 @@ A simple Ethereum smart contract  example.
 
 For noobs! There might be bugs here.
 
-From https://github.com/eshon/conference ,Fixes some bugs.
+From https://github.com/eshon/conference ,Fix some bugs.
 
 ### Updates
 
-Current code uses *Truffle v4.0.6*
+Current code uses *Truffle v4.0.6*, *Ganache v1.0.2*
 
 
 ### Install
